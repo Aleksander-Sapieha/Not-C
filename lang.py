@@ -135,6 +135,7 @@ KEYWORDS = [
   'to',
   'step',
   'WHILE',
+  'Function',
   'THEN',
   'end',
   'return',
