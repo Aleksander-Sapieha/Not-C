@@ -1,4 +1,4 @@
-# Not c
+# Not C
 my own programming language
 
 # disclaimer
